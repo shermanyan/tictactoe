@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic Tac Toe
 
 A classic two-player Tic Tac Toe game built with Flutter and Bloc. Two players take turns marking X and O on a 3×3 grid until one wins or the board fills up in a draw.
 
